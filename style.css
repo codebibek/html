@@ -1,0 +1,42 @@
+body{
+	margin:0px;
+	background-color: grey;
+}
+
+header{
+	background-color: #333;
+
+
+}
+nav{
+	background-color: green;
+}
+nav p{
+	font-family: cursive;
+	font-size: 24px;
+	text-align: center;
+}
+nav a{
+	float: left;
+	padding: 1%;
+	border: 3px solid black;
+
+
+}
+nav a:hover{
+	background-color: yellow;
+
+}
+.clear{
+	clear: both;
+}
+.foot{
+	text-align: center;
+
+}
+footer a{
+	background-color: yellow;
+	padding: 3%;
+	float: left;
+	text-align: center;
+}
